@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:1:1-24:12
+	package
+		ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:4:5-22:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Alex\.android\build-cache\36d52166d47b30d268465e27d48ab057eb1c69f4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Alex\.android\build-cache\e4634aaf050fd30bd3f879741265b3fb18e561cf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Alex\.android\build-cache\d6a9456848555ea234c50ebc324f569f75637b0e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Alex\.android\build-cache\66ebfa621626b671f51e240f36e74d7632bf9f61\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Alex\.android\build-cache\9e93c61d91dcac10da525dd27874fbbce382165b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Alex\.android\build-cache\8879dc70e1f65b6b261bf32071ea8f1de948cdc8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Alex\.android\build-cache\0b66b864c7b8595a4311a3503fe3b13c36059aef\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Alex\.android\build-cache\93bb589a59a580bb0fe17f13f3625e645139bfc2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Alex\.android\build-cache\44a486943366d5ac0d3664c324c70427be9d1f68\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:7:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:9:9-35
+	android:roundIcon
+		ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:8:9-45
+	android:allowBackup
+		ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:5:9-35
+	android:icon
+		ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:6:9-40
+	android:theme
+		ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:10:9-48
+activity#com.android.alex.superstreettrunfo.SplashActivity
+ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:11:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.android.alex.superstreettrunfo.MenuActivity
+ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:18:9-50
+	android:name
+		ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:18:19-47
+activity#com.android.alex.superstreettrunfo.EscolhaActivity
+ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:19:9-53
+	android:name
+		ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:19:19-50
+activity#com.android.alex.superstreettrunfo.JogadaActivity
+ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:20:19-49
+activity#com.android.alex.superstreettrunfo.GameOver
+ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:21:9-46
+	android:name
+		ADDED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml:21:19-43
+uses-sdk
+INJECTED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Alex\.android\build-cache\36d52166d47b30d268465e27d48ab057eb1c69f4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Alex\.android\build-cache\e4634aaf050fd30bd3f879741265b3fb18e561cf\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Alex\.android\build-cache\d6a9456848555ea234c50ebc324f569f75637b0e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Alex\.android\build-cache\66ebfa621626b671f51e240f36e74d7632bf9f61\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Alex\.android\build-cache\9e93c61d91dcac10da525dd27874fbbce382165b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Alex\.android\build-cache\8879dc70e1f65b6b261bf32071ea8f1de948cdc8\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Alex\.android\build-cache\0b66b864c7b8595a4311a3503fe3b13c36059aef\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Alex\.android\build-cache\93bb589a59a580bb0fe17f13f3625e645139bfc2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Alex\.android\build-cache\44a486943366d5ac0d3664c324c70427be9d1f68\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Alex\.android\build-cache\36d52166d47b30d268465e27d48ab057eb1c69f4\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex\Desktop\Desk\Android\SuperStreetTrunfo\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Alex\.android\build-cache\36d52166d47b30d268465e27d48ab057eb1c69f4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Alex\.android\build-cache\e4634aaf050fd30bd3f879741265b3fb18e561cf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Alex\.android\build-cache\d6a9456848555ea234c50ebc324f569f75637b0e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Alex\.android\build-cache\66ebfa621626b671f51e240f36e74d7632bf9f61\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Alex\.android\build-cache\9e93c61d91dcac10da525dd27874fbbce382165b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Alex\.android\build-cache\8879dc70e1f65b6b261bf32071ea8f1de948cdc8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Alex\.android\build-cache\0b66b864c7b8595a4311a3503fe3b13c36059aef\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Alex\.android\build-cache\93bb589a59a580bb0fe17f13f3625e645139bfc2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Alex\.android\build-cache\44a486943366d5ac0d3664c324c70427be9d1f68\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Alex\.android\build-cache\36d52166d47b30d268465e27d48ab057eb1c69f4\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Alex\.android\build-cache\36d52166d47b30d268465e27d48ab057eb1c69f4\output\AndroidManifest.xml:26:9-47
