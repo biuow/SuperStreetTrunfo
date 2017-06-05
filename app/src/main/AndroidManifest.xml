@@ -1,0 +1,24 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+
+    package="com.android.alex.superstreettrunfo">
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/sflogo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/sflogo"
+        android:supportsRtl="true"
+        android:theme="@style/HiddenTitleTheme">
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MenuActivity" />
+        <activity android:name=".EscolhaActivity" />
+        <activity android:name=".JogadaActivity" />
+        <activity android:name=".GameOver" />
+    </application>
+
+</manifest>
